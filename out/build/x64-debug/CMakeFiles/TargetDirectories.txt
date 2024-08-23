@@ -1,0 +1,5 @@
+C:/Users/kasun/source/repos/best-practices/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/kasun/source/repos/best-practices/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kasun/source/repos/best-practices/out/build/x64-debug/best-practices/CMakeFiles/best-practices.dir
+C:/Users/kasun/source/repos/best-practices/out/build/x64-debug/best-practices/CMakeFiles/edit_cache.dir
+C:/Users/kasun/source/repos/best-practices/out/build/x64-debug/best-practices/CMakeFiles/rebuild_cache.dir
